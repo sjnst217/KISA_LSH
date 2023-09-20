@@ -5,12 +5,10 @@
 
 * This repository contains code provided by KISA, and you can download the corresponding files from the [link](https://seed.kisa.or.kr/kisa/Board/22/detailView.do).
 
-KISA_LSH.ZIP 파일은 우리의 레포지토리에도 존재하며, 해당 파일을 폴더형식으로 저장해 놓은것이 위의 KISA_LSH_unziped입니다.
+The KISA_LSH.ZIP file is also present in our repository, and the contents of this file have been extracted and stored as 'KISA_LSH_unzipped' above.
 
-해당 무결성은 SHA1을 사용할때 0126e8fd805c989f54dc176fdea8746385ce78f0입니다.
-
-빌드방법
--셋아ㅓㅂ : 어디서VS 뭐로OPTIMIZAE LAEVEL
+## File integrity
+* The integrity of the file is 0126e8fd805c989f54dc176fdea8746385ce78f0 when using SHA1.
 
 성능
 
