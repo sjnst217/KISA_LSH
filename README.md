@@ -10,7 +10,5 @@
 ## File integrity
 * The integrity of the file is 0126e8fd805c989f54dc176fdea8746385ce78f0 when using SHA1.
 
-성능
-
 
 
